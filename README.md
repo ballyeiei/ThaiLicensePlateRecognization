@@ -12,7 +12,6 @@ You can run code at ###Run model to predict Use here in license-plate-recognitio
 1. Put only plate license in Plate Folder as 'badexample_tryucanreadtoo.png' Example
 2. Open license-plate-recognition-using-cnn.ipynb
 3. At model rows train there
-** automatically save weight data in every each epoch
 
 ## File Description
 os : Ubuntu 16.04.4 LTS
