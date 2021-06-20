@@ -6,5 +6,5 @@ Put only plate license in Plate Folder as 'badexample_tryucanreadtoo.png' Exampl
 
 Start with File: license-plate-recognition-using-cnn.ipynb
 Trained data set as LicensePlate.h5 
-You can run code at ###Run model to predict Use here in 
+You can run code at บรรทัด ###Run model to predict Use here
 
