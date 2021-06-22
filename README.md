@@ -1,4 +1,4 @@
-# Thai License Plate Recognization by using CNN
+# Thai License Plate Recognition by using CNN
  
 Hello this is my DL project
 
